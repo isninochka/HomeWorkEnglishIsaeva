@@ -1,0 +1,22 @@
+Write your answer to the interview question "Tell me about yourself". You can use this answer later when you prepare to an actual job interview.
+
+
+
+My name is Nina Isaeva, and I have been practicing as a Java developer for the last month. I have a strong passion for software development,
+and I have dedicated myself to constantly learning and improving my Java skills.
+
+During my internship, I have gained experience working with various Java frameworks and technologies. I have also worked with databases such 
+as MySQL and Oracle, and it is convenient for me to write complex SQL queries.
+
+I always strive to keep up to date with the latest trends and best practices in the Java ecosystem, which has helped me create high-quality 
+and efficient code. I strive to write clean, readable and maintainable code following industry standard coding principles and design patterns.
+
+In addition to my technical knowledge, I am also a team player who enjoys collaborating with others to solve problems and achieve project goals.
+I believe in open communication and actively seek and provide feedback to ensure continuous improvement and growth.
+
+In addition to my technical skills, I learn quickly and adapt well to new conditions. I like to face challenges and find innovative solutions
+to problems. I am highly organized and detail-oriented, which allows me to effectively manage tasks and prioritize, as well as complete projects
+on time.
+
+Overall, I am passionate about Java development and excel in dynamic and complex environments. I am glad to have the opportunity to share my
+skills and experience with your company and collaborate with like-minded professionals to achieve outstanding results.
