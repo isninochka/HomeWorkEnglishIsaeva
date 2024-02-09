@@ -1,0 +1,18 @@
+Mein Name ist Nina Isaeva, und zuletzt lerne ich Java-Entwickler. Ich habe eine starke Leidenschaft für die Softwareentwicklung,
+und ich widmete mich dem ständigen Erlernen und Verbessern meiner Java-Fähigkeiten.
+
+Während meines Praktikums habe ich Erfahrungen mit verschiedenen Java-Frameworks und -Technologien gesammelt. Ich habe auch mit solchen Datenbanken gearbeitet
+daten sind wie MySQL und Oracle, und es ist bequem für mich, komplexe SQL-Abfragen zu schreiben.
+
+Ich bin immer bestrebt, über die neuesten Trends und Best Practices im Java-Ökosystem auf dem Laufenden zu bleiben, was mir dabei geholfen hat, qualitativ hochwertige Produkte zu erstellen
+und effektiver Code. Ich versuche, sauberen, lesbaren und unterstützten Code zu schreiben, indem ich den Industriestandards für die Codierung und die Entwurfsmuster folge.
+
+Zusätzlich zu meinem technischen Wissen bin ich auch ein Teamplayer, der gerne mit anderen zusammenarbeitet, um Probleme zu lösen und Projektziele zu erreichen.
+Ich glaube an offene Kommunikation und suche aktiv nach und gebe Feedback, um kontinuierliche Verbesserung und Wachstum zu gewährleisten.
+
+Zusätzlich zu meinen technischen Fähigkeiten lerne ich schnell und passe mich gut an neue Bedingungen an. Ich mag es, Schwierigkeiten zu begegnen und innovative Lösungen zu finden
+zu Problemen. Ich bin hochorganisiert und detailorientiert, sodass ich Aufgaben effizient verwalten und priorisieren sowie Projekte abschließen kann
+termingerecht.
+
+Insgesamt bin ich leidenschaftlich für die Entwicklung in Java und bin in dynamischen und komplexen Umgebungen erfolgreich. Ich freue mich, meine zu teilen
+fähigkeiten und Erfahrungen mit Ihrem Unternehmen und arbeiten mit gleichgesinnten Fachleuten zusammen, um hervorragende Ergebnisse zu erzielen.
